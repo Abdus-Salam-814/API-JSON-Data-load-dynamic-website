@@ -13,3 +13,6 @@ const shop = {
 
 
 console.log(shop);
+
+const shopJSOn = JSON.stringify(shop);
+console.log(shopJSOn);
